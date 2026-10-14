@@ -903,6 +903,7 @@
 - [用友U8+ EIS ConfigService 未授权敏感配置信息泄露漏洞](https://mrxn.net/jswz/U8-EIS-ConfigService-data-leak.html)
 - [用友U8+ U8AuditWebSite U8ForWhereServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-U8AuditWebSite-U8ForWhereServices-rce.html)
 - [用友U8+ UFFileManagerServices WebUploadServices 未授权任意文件写命令执行漏洞](https://mrxn.net/jswz/U8-UFFileManagerServices-WebUploadServices-rce.html)
+- [友加畅捷管理系统标准版 CreateImage接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-baseinfo-CreateImage-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
